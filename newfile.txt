@@ -1,1 +1,1 @@
-Here is where we'll store our password
+No! Don't store passwords here!!
