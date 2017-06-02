@@ -1,1 +1,2 @@
-Here is where we'll store our password
+Password: 1234
+Another: 5678
